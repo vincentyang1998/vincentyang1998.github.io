@@ -6,19 +6,18 @@ layout: page
 
 <img src="https://vincentyang1998.github.io/IMG_7649.PNG" class="floatpic" width="360" height="480"
 
-Here is **Vincent Yang(Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Vincent Yang(田珩)**.
 
-I am a master student majoring in **Finance** at University of Rochester and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
+I am a **finance** master's student at the University of Rochester, where I also serve as a tutor at the Simon Business School. Prior to my graduate studies, I held the role of Financial Due Diligence Analyst at a consulting firm, engaging in tasks ranging from short-selling investigations to private equity buy-side due diligences. In addition, I gained practical experience through internships in FP&A roles at renowned companies such as GE, Bosch, and Vanke.
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am searching for a Fall 2024 PhD program. Please contact me with any leads. Thank you!**
 
-- **Aug 2022 - Dec 2023:** MSc in Finance, Simon Business School
+- **Aug 2022 - Dec 2023:** MSc in Finance (STEM), Simon Business School
 - **Sep 2016 - May 2020:** BCom in Accountancy, Hunan University of Finance and Economics
-- Expect to pursue a PhD in Finance in the North America and will graduate in 2025. Looking for PhD position after MSc!
 
 <br>
 
