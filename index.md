@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://vincentyang1998.github.io/vincentyang.jpg" class="floatpic" width="360" height="480"
+<img src="https://vincentyang1998.github.io/vincentyang.jpg" class="floatpic" width="360" height="480">
 
 Here is **Vincent Yang(田珩)**.
 
