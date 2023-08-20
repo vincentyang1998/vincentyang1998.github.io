@@ -4,9 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://vincentyang1998.github.io/IMG_7649.PNG" class="floatpic" width="360" height="480"
-
-<img src="/Users/hengtian/Desktop/vincentyang1998.github.io/IMG_7649.PNG" alt="IMG_7649" style="zoom:25%;" />
+<img src="https://vincentyang1998.github.io/vincentyang.jpg" class="floatpic" width="360" height="480"
 
 Here is **Vincent Yang(田珩)**.
 
