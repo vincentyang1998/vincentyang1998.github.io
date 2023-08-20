@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://vincentyang1998.github.io/IMG_7649.PNG" class="floatpic" width="360" height="480"
 
 Here is **Vincent Yang(Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
