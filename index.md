@@ -6,9 +6,9 @@ layout: page
 
 <img src="https://vincentyang1998.github.io/vincentyang.jpg" class="floatpic" width="360" height="480">
 
-Here is **Vincent Yang(田珩)**.
+Here is **Vincent Yang (田珩)**.
 
-I am a **finance** master's student at the University of Rochester, where I also serve as a tutor at the Simon Business School. Prior to my graduate studies, I held the role of Financial Due Diligence Analyst at a consulting firm, engaging in tasks ranging from short-selling investigations to private equity buy-side due diligences. In addition, I gained practical experience through internships in FP&A roles at renowned companies such as GE, Bosch, and Vanke.
+I am a **finance** master's student at the University of Rochester, where I also serve as a Financial Statement Analysis tutor. Prior to my graduate studies, I held the role of Financial Due Diligence Analyst at a consulting firm, engaging in projects ranging from short-selling investigations to PE/VC buy-side due diligences. In addition, I gained practical experience through internships in FP&A roles at renowned companies such as GE, Bosch, and Vanke.
 
 <br>
 
@@ -27,7 +27,7 @@ I am a **finance** master's student at the University of Rochester, where I also
 
 - Behavioural Finance
 - Shadow Banking
-- To Be Continued
+- Anomaly
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
