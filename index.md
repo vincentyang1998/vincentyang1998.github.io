@@ -6,6 +6,8 @@ layout: page
 
 <img src="https://vincentyang1998.github.io/IMG_7649.PNG" class="floatpic" width="360" height="480"
 
+<img src="/Users/hengtian/Desktop/vincentyang1998.github.io/IMG_7649.PNG" alt="IMG_7649" style="zoom:25%;" />
+
 Here is **Vincent Yang(田珩)**.
 
 I am a **finance** master's student at the University of Rochester, where I also serve as a tutor at the Simon Business School. Prior to my graduate studies, I held the role of Financial Due Diligence Analyst at a consulting firm, engaging in tasks ranging from short-selling investigations to private equity buy-side due diligences. In addition, I gained practical experience through internships in FP&A roles at renowned companies such as GE, Bosch, and Vanke.
