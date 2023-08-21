@@ -36,8 +36,8 @@ links:
     url: /
   - title: Curriculum Vitae
     url: /file/CV_YANG_Vincent.pdf
-  - title: Projects
-    url: /projects/
+ # - title: Projects
+ #   url: /projects/
   - title: Awards
     url: /awards/
  # - title: Hobbies
@@ -78,7 +78,3 @@ disqus:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-
-# Latest update in 2023/08/01 by Hanlin Cai.
-# URL: https://caihanlin.com/

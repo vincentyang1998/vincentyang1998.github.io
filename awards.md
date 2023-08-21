@@ -10,11 +10,11 @@ title: Awards
 - March 2023: 2023 Dean's Leadership Award
 - Jul 2022: Simon Merit Scholarship Recipient ($8350)
 - Jul 2019: HUFE Outstanding Leadership Awards
-- Aug 2017：HUFE First-Class Scholarship ($400)
+- Aug 2017: HUFE First-Class Scholarship ($400)
 
 ## Competitions
 
-- Feb 2023：2023 Cornell Investment Portfolio Case Competition
+- Feb 2023: 2023 Cornell Investment Portfolio Case Competition
 
 ## Social Activities
 
