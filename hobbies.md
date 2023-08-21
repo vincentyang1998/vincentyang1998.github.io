@@ -6,7 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-## Teaching & Workshops
+## Volleyball
 
 <div class="third">
 <img src="/images/prelection1.JPG">
