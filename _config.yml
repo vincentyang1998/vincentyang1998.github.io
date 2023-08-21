@@ -13,8 +13,8 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   # facebook: caihanlin2002
-  github: https://github.com/vincentyang1998
-  linkedin: https://www.linkedin.com/in/vincentth/
+  github: vincentyang1998
+  linkedin: vincentth
   #scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # instagram: lancecai2002
   # lastfm:
@@ -34,8 +34,8 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Resume
-    url: /file/CV-HanlinCAI.pdf
+  - title: Curriculum Vitae
+    url: /file/CV_YANG_Vincent.pdf
   - title: Projects
     url: /projects/
   - title: Awards
