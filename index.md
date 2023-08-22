@@ -6,17 +6,17 @@ layout: page
 
 <img src="https://vincentyang1998.github.io/vincentyang.jpg" class="floatpic" width="360" height="480">
 
+**<font color='red'>[Highlight]</font> I am searching for a Fall 2024 PhD program. Please contact me with any leads. Thank you!**
+
 Here is **Vincent Yang (田珩)**.
 
-I am a **finance** master's student at the University of Rochester, where I also serve as a Financial Statement Analysis tutor. Prior to my graduate studies, I held the role of Financial Due Diligence Analyst at a consulting firm, engaging in projects ranging from short-selling investigations to PE buy-side due diligences. In addition, I gained practical experience through internships in FP&A roles at GE, Bosch, and Vanke.
+I am a finance master's student at the University of Rochester, where I also serve as a Financial Statement Analysis tutor. Prior to my graduate studies, I held the role of Financial Due Diligence Analyst at a consulting firm, engaging in projects ranging from short-selling investigations to PE buy-side due diligences. In addition, I gained practical experience through internships in FP&A roles at GE, Bosch, and Vanke.
 
 ---
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am searching for a Fall 2024 PhD program. Please contact me with any leads. Thank you!**
-
-- **Aug 2022 - Dec 2023:** MSc in Finance (STEM), Simon Business School
+- **Aug 2022 - Dec 2023:** MSc in Finance (STEM), Simon Business School - University of Rochester
 - **Sep 2016 - May 2020:** BCom in Auditing, Hunan University of Finance and Economics
 
 ---
