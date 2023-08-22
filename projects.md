@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /publications/index.html
-title: Publications
+permalink: /projects/index.html
+title: Projects
 ---
 
-# Publications
+# Projects
 
 Lastest Update: Aug 22 2023
 
