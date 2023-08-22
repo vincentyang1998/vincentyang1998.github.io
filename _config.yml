@@ -36,8 +36,8 @@ links:
     url: /
   - title: Curriculum Vitae
     url: /file/CV_YANG_Vincent.pdf
- # - title: Projects
- #   url: /projects/
+  - title: Projects
+    url: /projects/
   - title: Awards
     url: /awards/
  # - title: Hobbies
