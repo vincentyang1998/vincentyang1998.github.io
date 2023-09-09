@@ -19,17 +19,17 @@ I am a finance master's student at the University of Rochester, where I also ser
 ## Academic Background
 
 - **Aug 2022 - Dec 2023:** MSc in Finance (STEM), Simon Business School - University of Rochester
-- **Sep 2016 - May 2020:** BCom in Auditing, Hunan University of Finance and Economics
+- **Sep 2016 - Jun 2020:** BCom in Auditing, Hunan University of Finance and Economics
 
 ---
 
 ## Research Interests
 
-- Anomalies
 - Behavioural Finance
-- Shadow Banking
+- Financial Crises
+- Anomalies
 - International Finance
 
-While I am currently drawn to the realms of Behavioural Finance, Shadow Banking, Anomalies, and International Finance, my academic journey is an ongoing exploration. I am actively immersing myself in diverse research papers, eagerly seeking opportunities to uncover new interests and expand my horizons within the dynamic field of finance.
+While I am currently drawn to the realms of Behavioural Finance, Financial Crises, Anomalies, and International Finance, my academic journey is an ongoing exploration. I am actively immersing myself in diverse research papers, eagerly seeking opportunities to uncover new interests and expand my horizons within the dynamic field of finance.
 
 <br>
