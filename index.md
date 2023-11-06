@@ -26,11 +26,11 @@ Prior to my graduate studies, I held the role of Forensic Due Diligence Analyst 
 
 ## Research Interests
 
-- Capital Markets
-- Financial Crises
+- Financial Reporting
+- Information Asymmetry
 - Behavioral Finance
-- Emerging Markets
+- Political Economy
 
-While I am currently drawn to the realms of Capital Markets, Financial Crises, Behavioral Finance, and Emerging Markets, my academic journey is an ongoing exploration. I am actively immersing myself in diverse research papers, eagerly seeking opportunities to uncover new interests and expand my horizons within the dynamic field of business world.
+What fascinates me about accounting is that it puts the classic question of how people use limited information and resources to think about problems and make decisions from an academic level into the real world. Information asymmetry underpins the existence of transactions, necessitating individuals to draw inferences with limited resources and information in the quest for optimal decisions. This dynamic extends to the functioning of capital markets, where a significant portion of information is conveyed through financial data and accounting statements.
 
 <br>
