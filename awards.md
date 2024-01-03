@@ -18,6 +18,6 @@ title: Awards
 
 ## Social Activities
 
-- SImon Spectrum Club (LGBTQ+ DEI) Master Representative
+- Simon Spectrum Club (LGBTQ+ DEI) Master Representative
 - Girls Protection Fund Volunteer
-- GE Healthcare Brain Tumor Children Care Volunteer
+- GE Healthcare CNS Tumor Children Care Volunteer
