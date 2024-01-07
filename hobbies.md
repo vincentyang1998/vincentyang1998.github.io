@@ -9,31 +9,46 @@ title: Hobbies
 ## Volleyball
 
 <div class="third">
-<img src="/images/volleyball1.JPG">
-<img src="/images/volleyball2.JPG">
+<img src="/images/prelection1.JPG">
+<img src="/images/speech1.JPG">
+<img src="/images/speech3.JPG">
 </div>
-<br>Nothin' beats the thrill of setting up a full-on volleyball showdown every weekend! Summer turned into my volleyball season, and it's become a routine that I look forward to every week. In those lively afternoons, we come together, rallying, and cheering each other on. Surprisingly, many folks are new to the game, but I'm lucky to be part of a crew of super enthusiastic partners—always open to welcoming newcomers with open arms. Ready for more serves, spikes, and good times ahead! 
+<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
+
+[a fantastic speech]:https://youtu.be/Dzx84KpGNoE
+[best universities in my hometown]:https://www.fzu.edu.cn/
 
 
 
-## Music
+## Swimming & Surfing
 
 <div class="third">
-<img src="/images/music.JPG">
+<img src="/images/swimming2.JPG">
+<img src="/images/swimming.JPG">
+<img src="/images/surfing1.JPG">
 </div>
-<br>My musical tastes? Let's just say they're as diverse as a Spotify shuffle. Catch me at a K-pop concert, soaking in the beats. Find me at a classical music performance, lost in the timeless melodies. Or maybe spot me at a Broadway musical, where every note tells a story. From K-pop vibes to classical tunes to Broadway beats, I'm all in for the musical smorgasbord. 
+<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my swimming career. Recently, I am also keen on surfing.
 
-## Literature and Art
+## Past Hobbies
 
-In the tapestry of everyone's life, there are two concentric circles. The outermost layer woven with work, status, and wealth, while the innermost holds the ineffable secrets, unattainable dreams, and ambitions that linger in the shadows. For me, literature and art serve as rare portals, gently unlocking the hidden corners of my heart. 
+I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
 
 ## My Cat
 
-My love, Mona, is a blue british shorthair.
+This is my love. Her name is Qbo (Q宝).
 
 <div>
 <img src="/images/cat.JPG">
 </div>
 <br>
 
+## Chat with me
+
+**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
+
+<!-- Calendly inline widget begin -->
+
+<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
 
