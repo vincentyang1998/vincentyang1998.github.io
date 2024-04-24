@@ -8,14 +8,14 @@ Here is **Vincent Yang (田珩)**.
 
 I am a Ph.D. student in Accounting at the Ohio State University. I received a Master's degree in Finance from Universtiy of Rochester and served as Research Assistant and Academic Tutor in Investment, Financial Statement Analysis and Valuation, Options and Futures with Python courses. 
 
-Prior to my graduate studies, I held the role of Forensic Due Diligence Analyst at a consulting firm, engaging in projects ranging from short-selling investigations to PE buy-side due diligences. In addition, I interned in FP&A roles at GE, Bosch, and Vanke.
+Prior to my graduate studies, I held the role of Forensic Due Diligence Analyst, engaging in projects ranging from short-selling investigations to PE buy-side due diligences. In addition, I interned in FP&A roles at GE, Bosch, and Vanke.
 
 ---
 
-## Academic Background
+## Education
 
-- **2029** Ph.D. in Accounting, The Ohio State University - Fisher College of Business
-- **2023** MSc in Finance (STEM), University of Rochester - Simon Business School
+- Ph.D. in Accounting, The Ohio State University - Fisher College of Business
+- MSc in Finance (STEM), University of Rochester - Simon Business School
 
 ---
 
