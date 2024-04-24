@@ -9,9 +9,9 @@ owner:
   name: Vincent Yang
   avatar: cover.jpg
 #  bio:
-  email: qyang23@ur.rochester.edu
+  email: yang.7525@osu.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # twitter: lancecai2002
+  x: QinghangYang
   # facebook: caihanlin2002
   github: vincentyang1998
   linkedin: vincentth
@@ -35,7 +35,7 @@ links:
   - title: About Me
     url: /
   - title: Curriculum Vitae
-    url: /file/CV_YANG_Vincent.pdf
+    url: /file/CV_PhD_YANG_Vincent.pdf
   - title: Projects
     url: /projects/
   - title: Awards
