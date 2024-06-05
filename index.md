@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-Here is **Vincent Yang (田珩)**.
+Here is **Vincent Tian (田珩)**.
 
 I am a Ph.D. student in Accounting at the Ohio State University. I received a Master's degree in Finance from Universtiy of Rochester and served as Research Assistant and Academic Tutor in Investment, Financial Statement Analysis and Valuation, Options and Futures with Python courses. 
 
